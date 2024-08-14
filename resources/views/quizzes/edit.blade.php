@@ -1,4 +1,4 @@
-<x-layout :pagetitle="'Quizzerly - Edit'">
+<x-layout :pagetitle="'Ezquiz - Edit'">
 
     <x-gradient-background height="h-[calc(100%_-_4rem)]" />
     <x-header />

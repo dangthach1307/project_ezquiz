@@ -3,7 +3,7 @@
     <a href="/">
         <h1
             class="text-2xl text-words hover:bg-gradient-to-br from-surface to-words hover:bg-clip-text hover:text-transparent transition duration-200 ease-in ">
-            Quizzerly</h1>
+            Ezquiz</h1>
     </a>
     <div class="text-words flex gap-2 md:gap-4 lg:gap-4 xl:gap-6 text-sm font-normal ">
         <a class="pl-4 lg:pl-8 hover:underline hover:underline-offset-4 hover:text-white hidden lg:block"
@@ -45,7 +45,7 @@
     <a href="/">
         <h1
             class="text-2xl text-faintest hover:bg-gradient-to-br from-surface to-words hover:bg-clip-text hover:text-transparent transition duration-200 ease-in ">
-            Quizzerly</h1>
+            Ezquiz</h1>
     </a>
     <svg onclick="openMenu()" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
         fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
@@ -65,7 +65,7 @@
             <a href="/">
                 <h1
                     class="font-normal mt-4 ml-4 text-2xl text-surface hover:bg-gradient-to-br from-surface to-background hover:bg-clip-text hover:text-transparent transition duration-200 ease-in ">
-                    Quizzerly</h1>
+                    Ezquiz</h1>
             </a>
             <svg onclick="closeMenu()" xmlns="http://www.w3.org/2000/svg" width="32" height="32"
                 viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round"

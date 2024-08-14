@@ -1,4 +1,4 @@
-<x-layout :pagetitle="'Quizzerly - ' . $category->name">
+<x-layout :pagetitle="'Ezquiz - ' . $category->name">
     <x-announcement-bar />
     <x-gradient-background height="h-275 md:h-250" />
     <x-header />

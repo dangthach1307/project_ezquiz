@@ -1,9 +1,9 @@
-<x-layout :pagetitle="'Quizzerly - Register'">
+<x-layout :pagetitle="'Ezquiz - Register'">
     <x-gradient-background height="h-screen" />
 
     <a href="/">
         <h1 class="absolute top-4 left-4 text-4xl text-words hover:text-white transition duration-500 ease-in z-40">
-            Quizzerly</h1>
+            Ezquiz</h1>
     </a>
 
     <section class="relative flex flex-col items-center justify-center min-h-screen">
@@ -13,7 +13,7 @@
                 <h2
                     class="text-center text-2xl font-bold leading-9 tracking-tight bg-clip-text text-transparent bg-gradient-to-br from-background to-surface">
                     Register your
-                    Quizzerly account</h2>
+                    Ezquiz account</h2>
             </div>
             <div class="border-t border-background/20 mt-2 sm:mx-auto sm:w-full sm:max-w-sm ">
                 <form class="space-y-2 sm:space-y-6" action="/register" method="POST">

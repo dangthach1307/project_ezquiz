@@ -1,3 +1,3 @@
-<x-layout :pagetitle="'Quizzerly'">
+<x-layout :pagetitle="'Ezquiz'">
 
 </x-layout>

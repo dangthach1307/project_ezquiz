@@ -1,4 +1,4 @@
-<x-layout :pagetitle="'Quizzerly - Home'">
+<x-layout :pagetitle="'Ezquiz - Home'">
     <x-announcement-bar />
     <x-gradient-background height="h-300" />
     <x-header />

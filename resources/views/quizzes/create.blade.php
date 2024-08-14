@@ -1,4 +1,4 @@
-<x-layout :pagetitle="'Quizzerly - Create a Quiz'">
+<x-layout :pagetitle="'Ezquiz - Create a Quiz'">
 
     <x-gradient-background height="h-[calc(100%_-_4rem)]" />
     <x-header />
@@ -25,7 +25,7 @@
                     <div class="mb-4"></div>
 
                     <p class="text-background/80 text-sm font-medium pb-2">Category</p>
-                
+
                     <x-dropdown :categories="$categories" :currentCategory="$categories[0]" />
 
                 </div>
